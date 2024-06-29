@@ -1,0 +1,79 @@
+# Header - basic info
+
+"Functions and Arrays" is a  file management, data management and 
+prompt engineering framework that is meant to be a replacement for traditional language frameworks
+
+the framework relies upon [Q] a propreitary AI service that can be licensed through https://cyberdynerobotic.systems/
+
+just 3 files can create entire applications
+
+why are you still writing code? sign up for a free trial
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+       USE TOKENS         !
+                          !
+         | : +            ! 
+                          !
+  [LINE] [COLON] [PLUS]   !
+                          !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+the following is the function process file, it does all the work so you don't have to
+
+this can be written by hand, but should be generated from a [Q] manifest - 
+
+if done by hand documentation is available upon request but not public
+
+
+
+
+
+
+|
+COMMAND:rm -rf examples/example1 && mkdir examples/example1
+
+|
+COMMAND:cd examples/example1 && git config --global user.email "$email" && git config --global user.name "Nexus Platforms" && git clone $repo_address
+
+
+
+|
+COMMAND:cd examples/example1 && touch array_data
+
+
+
+|
+FILENAME:examples/example1/selenium_purchaser.py
++FILENAME_RELATIONS:[examples/example1/selenium_runner.sh]
++ARG:test3
++ARG:test4
++PROMPT:write a selenium purchaser script in python that is meant to be ran via command line in by the following command
+
+python3 examples/example1/selenium_purchaser.py
+
+
+the purhcaser will open the webpage $webpage click on any a tag that has primary-bttn as the class and navigate then to whatever url that a href says
+
+
+then there will be a div with a class submit-info-block and a button inside it, click that button it will close the modal
+
+
+find a div with a data-m3id = 65ssj0q23n85d03gn6qmtb and within it a button tag, click that
+
+click the first occurance of a label with class custom-control-label
+
+print the inner html of all the tags with a class order-info-cart-button
+
+|
+COMMAND:cd examples/example1 && pip install selenium
+
+
+|
+
+COMMAND: cd examples/example1 && cp ../../function_process ./ && python3 selenium_purchaser.py
+
+
+|

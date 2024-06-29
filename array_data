@@ -1,0 +1,54 @@
+# Header - basic info
+
+"Functions and Arrays" is a  file management, data management and 
+prompt engineering framework that is meant to be a replacement for traditional language frameworks
+
+the framework relies upon [Q] a propreitary AI service that can be licensed through https://cyberdynerobotic.systems/
+
+just 3 files can create entire applications
+
+why are you still writing code? sign up for a free trial
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+       USE TOKENS         !
+                          !
+         | : +            ! 
+                          !
+  [LINE] [COLON] [PLUS]   !
+                          !
+!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+
+the following is the array file, where secrets or data are meant to be stored.
+
+this can be written by hand, but should be generated from a [Q] manifest - 
+
+if done by hand documentation is available upon request but not public
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|
+FILENAME:examples/example1/selenium_purchaser.py
++ARG:filly
+|
+META:
++KEY:project_docroot\VALUE:./
++KEY:email\VALUE:TEST@gmail.com
++KEY:repo_address\VALUE:github.com/TEST/TEST.git
++KEY:repo_address\VALUE:github.com/TEST/TEST.git
++KEY:webpage\VALUE:https[COLON]//www.freshbrothers.com/locations/
